@@ -221,10 +221,10 @@ color: var(--subtitle-color);
     color: rgba(255, 255, 255, 0.6);
 }
 
-.footer-list-link-location:hover,
+/* .footer-list-link-location:hover,
 .footer-list-link-location:focus,
 .footer-list-link:hover,
 .footer-list-link:focus {
 color: var(--accent-color);
-}
+} */
 /*  ============ END FOOTER  ============ */
