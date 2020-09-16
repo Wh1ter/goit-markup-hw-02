@@ -11,7 +11,7 @@ body {
     font-family: var(--main-font);
     font-style: normal;
     /* background color подсветка белых букв*/
-    background-color: rgb(225, 236, 236);
+    background-color: #E5E5E5;
 }
   
 .list {
@@ -161,6 +161,24 @@ color: #FFFFFF;
     letter-spacing: 0.03em;
     color: var(--title-color);
 }
+
+.team-list-name {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.187;
+    letter-spacing: 0.03em;
+    color: var(--title-color);
+  }
+  
+  .team-list-work {
+    font-family: var(--main-font);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.187;
+    letter-spacing: 0.03em;
+    color: var(--subtitle-color);
+  }
 /*  ============ END MAIN  ============ */
 
 /*  ============ MAIN PORTFOLIO  ============ */
